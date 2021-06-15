@@ -1,0 +1,1 @@
+Unzip All files when putting into datapack folder
